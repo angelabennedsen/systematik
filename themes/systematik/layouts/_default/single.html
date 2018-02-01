@@ -1,10 +1,6 @@
-<html>
-    <head>
-        
-    </head>
-    <body>
-        
-    <h1>{{ .Titel }}</h1>
+{{ partial "header.html" . }}
+  
+        <body>      
+    <h1>{{ .Title }}</h1>
     <section>{{ .Content }}</section>
     </body>
-</html>

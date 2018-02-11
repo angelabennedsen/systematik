@@ -1,4 +1,44 @@
-baseURL = "http://example.org/"
+baseURL = "http://systematikangela.angelabennedsen.dk/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Angelas Flat Design"
 theme = "systematik"
+
+
+
+
+[[menu.main]]
+    name = "Forside"
+    title = "forside section"
+    weight = 2
+    identifier = "forside"
+    url = "/forside/"
+    
+        
+[[menu.main]]
+    name = "Om"
+    title = "om section"
+    weight = 3
+    identifier = "om"
+    url = "/om/"
+ 
+[[menu.main]]
+    name = "Dokumentation"
+    title = "dokumentation section"
+    weight = 4
+    identifier = "dokumenation"
+    url = "/dokumentation/"
+ 
+[[menu.main]]
+    name = "Kontakt"
+    title = "kontakt section"
+    weight = 5
+    identifier = "kontakt"
+    url = "/kontakt/"
+ 
+ [[menu.main]]
+    name = "Datavisualisering"
+    title = "datavisualisering section"
+    weight = 6
+    identifier = "datavisualisering"
+    url = "/datavisualisering/"
+ 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on Angelas Flat Design</title>
+    <link>http://systematikangela.angelabennedsen.dk/datavisualisering/</link>
+    <description>Recent content in _Index on Angelas Flat Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2018 08:48:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://systematikangela.angelabennedsen.dk/datavisualisering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

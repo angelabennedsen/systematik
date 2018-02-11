@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentation on Angelas Flat Design</title>
+    <link>http://systematikangela.angelabennedsen.dk/dokumentation/</link>
+    <description>Recent content in Dokumentation on Angelas Flat Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 08:50:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://systematikangela.angelabennedsen.dk/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knapper</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/knapper/</link>
+      <pubDate>Fri, 02 Feb 2018 10:00:11 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/knapper/</guid>
+      <description>I dette framework kan du lave knapper ved at tilføje classen btns til en knap eller et link.
+ Dette er min brødtekst: Lorizzle ipsizzle dolizzle ma nizzle hizzle, consectetuer adipiscing its fo rizzle. sapizzle velizzle, away volutpizzle, suscipizzle fo shizzle, gravida hizzle, arcu. Nizzle eget tortor. Sizzle eros. Fusce mofo dolizzle dapibizzle sheezy pot funky fresh. Mauris pellentesque nibh et turpizzle. Pimpin&amp;rsquo; izzle shiznit.
+
+
+I dette framework kan du lave knapper ved at tilføje classen btns til en knap eller et link.</description>
+    </item>
+    
+    <item>
+      <title>Typografi</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/typografi/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:31 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/typografi/</guid>
+      <description>Overskrifter i Lato Brødtekst i noget andet  Dette er min brødtekst: Lorizzle ipsizzle dolizzle ma nizzle hizzle, consectetuer adipiscing its fo rizzle. sapizzle velizzle, away volutpizzle, suscipizzle fo shizzle, gravida hizzle, arcu. Nizzle eget tortor. Sizzle eros. Fusce mofo dolizzle dapibizzle sheezy pot funky fresh. Mauris pellentesque nibh et turpizzle. Pimpin&amp;rsquo; izzle shiznit.
+
+
+Overskrift h1 Overskrift h2 Overskrift til h3 Overskrift til h4 Brødtekst</description>
+    </item>
+    
+    <item>
+      <title>Farver</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/farver/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:19 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/farver/</guid>
+      <description>Du kan her se hvilke farver, som jeg har anvendt på mit site. Det er farver, som er tilpasset Flat Designet og er dermed lidt støvede, pastelfarver, men som alligevel har kant.</description>
+    </item>
+    
+  </channel>
+</rss>

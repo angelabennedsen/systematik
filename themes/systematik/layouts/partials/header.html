@@ -1,10 +1,20 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/normalize.css"> 
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/flexboxgrid.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/animate/animate.min.css">
     
-   
     
-    </head>
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    
+    
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/nivolightbox/dist/nivo-lightbox.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/nivolightbox/themes/default/default.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css"> </head>
 
 <body>
+    <div id="mySidenav" class="sidenav"> <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a> {{ $currentPage := . }} {{ range .Site.Menus.main }} <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent " main " .) ($currentPage.HasMenuCurrent "main " .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a> {{ end }} </div> <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+    <nav class="sidebar-nav"></nav>

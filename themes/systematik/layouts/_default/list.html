@@ -1,14 +1,17 @@
 {{ partial "header.html" . }}
-        
-    <h1>{{ .Title }}</h1>
-    <section>{{ .Content }}</section>
-    {{ range .Pages }}
+<section>{{ .Content }}</section>
+
+
+{{ range .Pages }}
+
+<h1>{{ .Title }}</h1>
+<div> {{ .Content }}</div>
+
     
-    <h3>{{ .Title }}</h3>
-    <div>{{ .Content}} </div>
     
-    {{ end }}
-    
-    
-    </body>
-{{ partial "footer.html" . }}
+{{ end }}
+ 
+
+   </body> 
+   
+  {{ partial "footer.html" . }}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelas Flat Design</title>
+    <link>http://systematikangela.angelabennedsen.dk/</link>
+    <description>Recent content on Angelas Flat Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 09:01:53 +0100</lastBuildDate>
+    
+	<atom:link href="http://systematikangela.angelabennedsen.dk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://systematikangela.angelabennedsen.dk/forside/</link>
+      <pubDate>Fri, 02 Feb 2018 10:00:11 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/forside/</guid>
+      <description>HEJ MED DIG!     
+Dette designtema er udviklet med Hugo terminalen og kodet i HTML, CSS og JavaScript. For at benytte dig af mit tema kan du downloade hele mappen ved at klikke på downloadknappen nedenunder.</description>
+    </item>
+    
+    <item>
+      <title>Knapper</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/knapper/</link>
+      <pubDate>Fri, 02 Feb 2018 10:00:11 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/knapper/</guid>
+      <description>I dette framework kan du lave knapper ved at tilføje classen btns til en knap eller et link.
+ Dette er min brødtekst: Lorizzle ipsizzle dolizzle ma nizzle hizzle, consectetuer adipiscing its fo rizzle. sapizzle velizzle, away volutpizzle, suscipizzle fo shizzle, gravida hizzle, arcu. Nizzle eget tortor. Sizzle eros. Fusce mofo dolizzle dapibizzle sheezy pot funky fresh. Mauris pellentesque nibh et turpizzle. Pimpin&amp;rsquo; izzle shiznit.
+
+
+I dette framework kan du lave knapper ved at tilføje classen btns til en knap eller et link.</description>
+    </item>
+    
+    <item>
+      <title>Typografi</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/typografi/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:31 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/typografi/</guid>
+      <description>Overskrifter i Lato Brødtekst i noget andet  Dette er min brødtekst: Lorizzle ipsizzle dolizzle ma nizzle hizzle, consectetuer adipiscing its fo rizzle. sapizzle velizzle, away volutpizzle, suscipizzle fo shizzle, gravida hizzle, arcu. Nizzle eget tortor. Sizzle eros. Fusce mofo dolizzle dapibizzle sheezy pot funky fresh. Mauris pellentesque nibh et turpizzle. Pimpin&amp;rsquo; izzle shiznit.
+
+
+Overskrift h1 Overskrift h2 Overskrift til h3 Overskrift til h4 Brødtekst</description>
+    </item>
+    
+    <item>
+      <title>Farver</title>
+      <link>http://systematikangela.angelabennedsen.dk/dokumentation/farver/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:19 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/dokumentation/farver/</guid>
+      <description>Du kan her se hvilke farver, som jeg har anvendt på mit site. Det er farver, som er tilpasset Flat Designet og er dermed lidt støvede, pastelfarver, men som alligevel har kant.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://systematikangela.angelabennedsen.dk/om/</link>
+      <pubDate>Thu, 01 Feb 2018 08:46:19 +0100</pubDate>
+      
+      <guid>http://systematikangela.angelabennedsen.dk/om/</guid>
+      <description>Om   Velkommen til mit designsystem! Mit navn er Angela Bennedsen og jeg studerer multimediedesign på Københavns Erhvervsakademi, hvor jeg lige nu læser på 3. semester. Jeg har udarbejdet denne side, som har til formål at give dig inspiration og ideer til din webside. Jeg kan godt lide flat design, hvilket er grundlaget for hele min side. Jeg har udarbejdet siden via HUGO og brugt inspiration og værktøjer fra blandt andet v3schools og codepen.</description>
+    </item>
+    
+  </channel>
+</rss>

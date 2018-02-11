@@ -1,0 +1,46 @@
+
+       {{ partial "header.html" . }}
+
+    
+<div class="container">
+<h1 class="animated infinite Pulse">Har du noget på hjerte?</h1>
+
+ 
+
+
+
+
+  <section class="row">
+     <div class="col-xs-12"><p>Du er velkommen til at kontakte mig for yderligere spørgsmål eller for feedback til design systemet.</p>
+       
+        <div id="formfeedback" class="hidden">Jeg vender tilbage hurtigst muligt!</div>
+          <form action="" method="post" id="kontaktmig">
+
+  <label for="Navn">Navn</label>
+              <input type="text" id="navn" name="navn" placeholder="Dit navn">
+
+ <label for="email">E-mail</label>
+              <input type="email" id="email" name="email" placeholder="Din e-mail">
+              <label for="henvendelse">Jeg henvender mig vedr.:</label>
+              <select id="henvendelse" name="henvendelse">
+                <option value="support">Support</option>
+                <option value="tilbud">Tilbud</option>
+                <option value="prepurchase">Spørgsmål før køb</option>
+              </select>
+              <label for="besked">Besked</label>
+              <textarea id="besked" name="besked" placeholder="Din besked.."></textarea>
+
+  <input type="submit" name="submit" value="Submit">
+                            <div id="formfailure" class="hidden"></div>
+          </form>
+      
+      </div>
+  </section>
+
+</div>
+   </body> 
+   
+  {{ partial "footer.html" . }}
+
+       
+     

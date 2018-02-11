@@ -1,6 +1,35 @@
 {{ partial "header.html" . }}
-    <h1>{{ .Title }}</h1>
-    <section>{{ .Content }}</section>
-</body>
+<div class="container">
+    <div class="row">
+    	<div class="col-xs-12">
+	        <h1>{{ .Title }}</h1>
+
+
+<body onload="myFunction()" style="margin:0;">
+
+<div id="loader"></div>
+
+<div style="display:none;" id="myDiv" class="animate-bottom">
+  <h4>Welcome!</h4>
+  <p>This is my Flat Design site!</p>
+</div>
+
+<section>{{ .Content }}</section>
+<br><br>
+	<a href="https://github.com/angelabennedsen/Systematik.git" class="btns">Download tema</a>
+		</div>
+	</div>
+</div>
+
+</body> 
+
 
 {{ partial "footer.html" . }}
+
+
+
+
+
+
+
+
